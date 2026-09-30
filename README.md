@@ -48,6 +48,4 @@ the Incident Management lifecycle using ServiceNow ITSM.
 
 ## Author
 Lakshmi Prasanna Dodda
-## Author
 
-**Lakshmi Prasanna Dodda**
