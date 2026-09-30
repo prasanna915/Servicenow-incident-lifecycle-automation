@@ -39,39 +39,12 @@ the Incident Management lifecycle using ServiceNow ITSM.
 
 ## Project Demo
 
-🎥 [Watch the Project Demo](https://drive.google.com/drive/folders/16A_Mb2iJJ05CPORutACb2ajSRJSj_Yus)
+🎥 [Watch the Project Demo](https://drive.google.com/drive/folders/1mldca1S9y3qivgTRlckZnnny3U6tabTn?usp=drive_link)
 
 [watch the project Documentation](https://drive.google.com/drive/folders/1iebNmZUN0JB8C4IWI6mdRQDTgut7u1LD)
 
 
-## Screenshots
 
-### Service Creation
-![Service Creation](Servicenow%20creation.png)
-
-### Incident Creation
-![Incident Creation](Incident%20Creation.png)
-
-### Incident Classification
-![Incident Classification](Incident-Classification.png)
-
-### Agent Assist
-![Agent Assist](Agent-Assist.png)
-
-### Reassignment
-![Reassignment](Reassignment.png)
-
-### Emergency Change
-![Emergency Change](Emergency-Change.png)
-
-### Child Incident
-![Child Incident](Child-Incident.png)
-
-### Resolution
-![Resolution](Resolution.png)
-
-### Knowledge Article
-![Knowledge Article](Knowledge%20Article.png)
 
 ## Author
 Lakshmi Prasanna Dodda
